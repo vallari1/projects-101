@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: "https://vallari1.github.io/projects-101/"
 languageCode: en-us
 title: My New Hugo Site
 theme: Mainroad
